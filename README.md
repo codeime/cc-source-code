@@ -1,0 +1,1 @@
+# cc-resource-code
